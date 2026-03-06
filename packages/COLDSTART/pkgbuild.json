@@ -35,7 +35,7 @@
         {
             "type": "screenshot",
             "url": "screen-3.png"
-        },
+        }
     ],
     "changelog": "\\nv0.6\\n\\n   Multiplayer Fixes"
 }
