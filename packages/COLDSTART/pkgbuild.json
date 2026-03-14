@@ -4,7 +4,7 @@
         "title": "COLD START",
         "author": "etonedemid",
         "category": "game",
-        "version": "1.4.0",
+        "version": "1.4.1",
         "url": "https://github.com/etonedemid/cold-start-nx",
         "license": "GPLv3",
         "description": "Open Source moddable topdown shooter ",
@@ -12,7 +12,7 @@
     },
     "assets": [
         {
-            "url": "https://github.com/etonedemid/cold-start-nx/releases/download/v1.4.0/cold-start-nx.nro",
+            "url": "https://github.com/etonedemid/cold-start-nx/releases/download/v1.4.1/cold-start-nx.nro",
             "type": "update",
             "dest": "/switch/COLDSTART/cold-start-nx.nro"
         },
@@ -41,5 +41,5 @@
             "url": "screen-0.png"
         }
     ],
-    "changelog": "v1.4.0\n- Upgrade rarity tiers (Common/Uncommon/Rare/Epic/Cursed)\n- New upgrades: Auto Reloader, Vampire, Last Stand\n- Multi-bomb: rapid successive launches when queued\n- PvE kills tracked in co-op scoreboard\n- Discord Rich Presence on Linux and Windows\n- AmmoUp fix: +5 ammo (was +3)\n- Split-screen HP bars, invuln blink, parry tint\n\nv1.3.0\n- Disable post-processing shader composite in splitscreen\n- Fix P1 primary gamepad routing in local multiplayer network sessions\n- Add gamepad crosshair for P1 across gameplay modes\n- Refresh README and HB App Store screenshots\n\nv1.2.0\n- Controller rumble support\n- Automatic update checker\n- Unified menu + creator overhaul\n- Multiplayer character sync completed\n- Full multiplayer mod sync\n- Mod sync hardening\n\nv1.1.1\n- Security: mod sync path traversal fix\n- Character creator rebuilt\n- PNG sprite import\n- Enhanced parry system\n- Player sprites upscaled\n- Texture editor removed"
+    "changelog": "v1.4.1\n- Self-update: download new NRO directly from GitHub releases with progress bar\n- Axe deals 3 damage instead of instant kill\n- Enemies migrate to nearest player within 1.5x vision range on target loss\n\nv1.4.0\n- Upgrade rarity tiers (Common/Uncommon/Rare/Epic/Cursed)\n- New upgrades: Auto Reloader, Vampire, Last Stand\n- Multi-bomb: rapid successive launches when queued\n- PvE kills tracked in co-op scoreboard\n- Discord Rich Presence on Linux and Windows\n- AmmoUp fix: +5 ammo (was +3)\n- Split-screen HP bars, invuln blink, parry tint\n\nv1.3.0\n- Disable post-processing shader composite in splitscreen\n- Fix P1 primary gamepad routing in local multiplayer network sessions\n- Add gamepad crosshair for P1 across gameplay modes\n- Refresh README and HB App Store screenshots\n\nv1.2.0\n- Controller rumble support\n- Automatic update checker\n- Unified menu + creator overhaul\n- Multiplayer character sync completed\n- Full multiplayer mod sync\n- Mod sync hardening\n\nv1.1.1\n- Security: mod sync path traversal fix\n- Character creator rebuilt\n- PNG sprite import\n- Enhanced parry system\n- Player sprites upscaled\n- Texture editor removed"
 }
