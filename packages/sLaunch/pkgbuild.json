@@ -4,7 +4,7 @@
         "title": "sLaunch",
         "author": "etonedemid",
         "category": "advanced",
-        "version": "1.5.3",
+        "version": "1.5.5",
         "url": "https://github.com/etonedemid/slaunch/",
         "license": "MIT",
         "description": "Welcome to your new home.",
@@ -20,7 +20,7 @@
             "url": "screen.png"
         },
         {
-            "url": "https://github.com/etonedemid/slaunch/releases/download/v1.5.3/sInstaller.nro",
+            "url": "https://github.com/etonedemid/slaunch/releases/download/v1.5.5/sInstaller.nro",
             "type": "update",
             "dest": "/switch/sLaunch/sInstaller.nro"
         },
